@@ -1,29 +1,29 @@
 Single-player
-SteamAchievements
-SteamTradingCards
-SteamCloud
-Fullcontrollersupport
-PartialControllerSupport
+Steam Achievements
+Steam Trading Cards
+Steam Cloud
+Full controller support
+Partial Controller Support
 Multi-player
-SteamLeaderboards
-OnlineMulti-Player
-Shared/SplitScreen
+Steam Leaderboards
+Online Multi-Player
+Shared/Split Screen
 Stats
 Co-op
-LocalMulti-Player
-Cross-PlatformMultiplayer
-OnlineCo-op
-LocalCo-op
-Includesleveleditor
-SteamWorkshop
-Captionsavailable
-In-AppPurchases
+Local Multi-Player
+Cross-Platform Multiplayer
+Online Co-op
+Local Co-op
+Includes level editor
+Steam Workshop
+Captions available
+In-App Purchases
 MMO
-VRSupport
-Commentaryavailable
-ValveAnti-Cheatenabled
-SteamTurnNotifications
-SteamVRCollectibles
-IncludesSourceSDK
+VR Support
+Commentary available
+Valve Anti-Cheat enabled
+Steam Turn Notifications
+SteamVR Collectibles
+Includes Source SDK
 Mods
-Mods(requireHL2)
+Mods (require HL2)

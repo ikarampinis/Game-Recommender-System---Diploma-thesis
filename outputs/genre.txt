@@ -5,25 +5,25 @@ Adventure
 Strategy
 Simulation
 RPG
-EarlyAccess
-FreetoPlay
+Early Access
+Free to Play
 Sports
 Racing
 Violent
-MassivelyMultiplayer
+Massively Multiplayer
 Gore
 Nudity
-SexualContent
+Sexual Content
 Utilities
-Design&Illustration
-Animation&Modeling
+Design & Illustration
+Animation & Modeling
 Education
-VideoProduction
-SoftwareTraining
-AudioProduction
-WebPublishing
-GameDevelopment
-PhotoEditing
+Video Production
+Software Training
+Audio Production
+Web Publishing
+Game Development
+Photo Editing
 Accounting
-Documentary
 Tutorial
+Documentary
